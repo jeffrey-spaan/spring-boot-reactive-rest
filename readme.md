@@ -352,7 +352,7 @@ Now that data has been added to our database, let's test the **GET all users HTT
 Now let's test the **GET per ID HTTP request**:
 <br />
 
-![Postman HTTP Get by ID request](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-reactive-rest/master/images/07-postmangetid.JPG)
+![Postman HTTP Get by ID request](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-reactive-rest/master/images/08-postmangetid.JPG)
 
 <br />
 
